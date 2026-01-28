@@ -21,7 +21,7 @@
 // @grant        GM_setValue
 // @grant        GM_registerMenuCommand
 // @downloadURL  https://raw.githubusercontent.com/Rukko/xcancel-redirect/main/xcancel-redirect.user.js
-// @updateURL    https://raw.githubusercontent.com/Rukko/xcancel-redirect/main/xcancel-redirect.user.js
+// @updateURL    https://raw.githubusercontent.com/Rukko/xcancel-redirect/main/xcancel-redirect.meta.js
 // ==/UserScript==
 
 (function() {
