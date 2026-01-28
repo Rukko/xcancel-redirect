@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         X → Twitter Frontend Redirect
 // @namespace    http://rukko.es
-// @version      v5.0
+// @version      5.0.1
 // @license      MIT
 // @description  Redirects x.com to your preferred Twitter frontend. Choose from xcancel (default), nitter instances, and more.
 // @author       Rukko
@@ -77,6 +77,7 @@
             <p style="margin: 0 0 15px 0; color: #666; font-size: 14px;">Choose your preferred frontend for X/Twitter redirects:</p>
             <select id="frontend-select" style="
                 width: 100%;
+                height: auto;
                 padding: 10px;
                 border: 2px solid #ddd;
                 border-radius: 6px;
