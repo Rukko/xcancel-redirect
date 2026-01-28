@@ -1,0 +1,2 @@
+# xcancel-redirect
+easy userscipt
