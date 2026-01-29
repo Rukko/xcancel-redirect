@@ -30,6 +30,7 @@
     // Available Twitter frontends
     const FRONTENDS = {
         'xcancel.com': 'XCancel',
+        'nitter.net': 'Nitter',
         'nitter.poast.org': 'Nitter (poast.org)',
         'nitter.privacydev.net': 'Nitter (privacydev.net)',
         'nitter.1d4.us': 'Nitter (1d4.us)',
