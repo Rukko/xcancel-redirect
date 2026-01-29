@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         X → Twitter Frontend Redirect
 // @namespace    http://rukko.es
-// @version      5.0.2
+// @version      5.0.3
 // @license      MIT
 // @description  Redirects x.com to your preferred Twitter frontend. Choose from xcancel (default), nitter instances, and more. TAU.
 // @author       Rukko
